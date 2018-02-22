@@ -122,7 +122,7 @@ export default {
   white-space: nowrap;
   display: inline-block;
   width: 70%;
-  float: float;
+  float: left;
 }
 .word-list-container {
   display: inline-block;
